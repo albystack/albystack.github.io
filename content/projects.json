@@ -78,5 +78,13 @@
     "tags": ["Python", "Finance", "Trading Algorithms"],
     "demoLink": "https://algo-trader.com",
     "githubLink": "https://github.com/albystack/algo-trader"
-  }
+  },
+  {
+    "id": "portfolio",
+    "title": "Personal Portfolio Website",
+    "description": "Designed and developed my personal portfolio website using React and TypeScript, showcasing my projects, skills, and experience in software development and quantitative finance.",
+    "tags": ["React", "TypeScript", "Web Development"],
+    "demoLink": "https://albertorescigno.me",
+    "githubLink": "https://github.com/albystack/website"
+  },
 ]
